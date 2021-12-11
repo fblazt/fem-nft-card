@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/css-flexbox-css-custom-properties-css-bem-methodology-PSNI-7f6F)
+- Live Site URL: [Live Site](https://fblazt-fem-nft.netlify.app/)
 
 ## My process
 
